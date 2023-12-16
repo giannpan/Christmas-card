@@ -5,12 +5,12 @@ This project demonstrates the design of a Christmas Card using Turtle Library.
 The process that we follow was:
 - Configuring the shape,colour and title of the turtle screen.
 - Defining the funcions that we are going to use for:
-  _The Christmas Tree
-  _The decoration balls
-  _The string of lights
-  _The bulbs
-  _The Snowflakes
-  _And finally the position change for each snowflake
+  - The Christmas Tree
+  - The decoration balls
+  - The string of lights
+  - The bulbs
+  - The Snowflakes
+  - And finally the position change for each snowflake
 -After that, we just apply the functions with their position settings.
 
 
