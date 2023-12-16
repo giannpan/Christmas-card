@@ -2,7 +2,7 @@
 
 This project demonstrates the design of a Christmas Card using Turtle Library.
 
-The process that we follow was:
+The process that followed was:
 - Configuring the shape,colour and title of the turtle screen.
 - Defining the funcions that we are going to use for:
   - The Christmas Tree
@@ -12,7 +12,7 @@ The process that we follow was:
   - The Snowflakes
   - And finally the position change for each snowflake
 
-- After that, we just apply the functions with their position settings.
+- Afterward, we simply apply the functions with their respective position settings.
 
 
 ## Software:
