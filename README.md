@@ -11,7 +11,8 @@ The process that we follow was:
   - The bulbs
   - The Snowflakes
   - And finally the position change for each snowflake
--After that, we just apply the functions with their position settings.
+
+- After that, we just apply the functions with their position settings.
 
 
 ## Software:
